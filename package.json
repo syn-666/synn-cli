@@ -1,0 +1,16 @@
+{
+  "name": "learn-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "synn": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}
